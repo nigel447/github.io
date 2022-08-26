@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nigel447.github.io/</loc>
+    <lastmod>2022-08-16T00:34:28+03:00</lastmod>
+  </url><url>
+    <loc>https://nigel447.github.io/posts/</loc>
+    <lastmod>2022-08-16T00:34:28+03:00</lastmod>
+  </url><url>
+    <loc>https://nigel447.github.io/posts/ubunt-wireguard-oci/</loc>
+    <lastmod>2022-08-16T00:34:28+03:00</lastmod>
+  </url><url>
+    <loc>https://nigel447.github.io/posts/ubunt-oci/</loc>
+    <lastmod>2022-08-09T18:08:51+03:00</lastmod>
+  </url><url>
+    <loc>https://nigel447.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nigel447.github.io/consult/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nigel447.github.io/contact/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nigel447.github.io/categories/</loc>
+  </url><url>
+    <loc>https://nigel447.github.io/tags/</loc>
+  </url>
+</urlset>

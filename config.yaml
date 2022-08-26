@@ -2,6 +2,7 @@ baseURL: https://nigel447.github.io
 languageCode: en-us
 title: nigel savage
 theme: anatole  # https://themes.gohugo.io/themes/anatole/
+publishDir: docs
 
 menu:
   main: 

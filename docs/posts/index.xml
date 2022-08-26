@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on nigel savage</title>
+    <link>https://nigel447.github.io/posts/</link>
+    <description>Recent content in Posts on nigel savage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:34:28 +0300</lastBuildDate><atom:link href="https://nigel447.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu Wireguard Oci</title>
+      <link>https://nigel447.github.io/posts/ubunt-wireguard-oci/</link>
+      <pubDate>Tue, 16 Aug 2022 00:34:28 +0300</pubDate>
+      
+      <guid>https://nigel447.github.io/posts/ubunt-wireguard-oci/</guid>
+      
+        <description>Oracle Cloud Infrastructure Ubuntu Wireguard</description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu on oci</title>
+      <link>https://nigel447.github.io/posts/ubunt-oci/</link>
+      <pubDate>Tue, 09 Aug 2022 18:08:51 +0300</pubDate>
+      
+      <guid>https://nigel447.github.io/posts/ubunt-oci/</guid>
+      
+        <description>Oracle Cloud Infrastructure Ubuntu Image Iptables</description>
+      
+    </item>
+    
+  </channel>
+</rss>
