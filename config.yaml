@@ -1,0 +1,34 @@
+baseURL: https://nigelsavage.com/
+languageCode: en-us
+title: nigel savage
+theme: anatole  # https://themes.gohugo.io/themes/anatole/
+
+menu:
+  main: 
+    - identifier: about 
+      name: About 
+      url: /about 
+      weight: 200 
+    - identifier: consult 
+      name: Consult 
+      url: /consult 
+      weight: 200 
+    - identifier: contact 
+      name: Contact 
+      url: /contact 
+      weight: 200 
+    - identifier: blog 
+      name: Blog 
+      url: /posts 
+      weight: 200 
+
+
+params: 
+  author: nigel savage
+  showPowerBy: false
+  description:  always learning
+  profilePicture: images/profile.jpg
+  socialIcons:
+      - icon: fab fa-github
+        title: Github
+        url: https://github.com/nigel447
