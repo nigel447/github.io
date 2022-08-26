@@ -9,8 +9,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - uses: actions/checkout@v2
         with:
@@ -19,11 +17,11 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.91.2'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=https://nigel447.github.io/
+        run: hugo --minify --baseURL=https://nigel447.github.io/blog
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
